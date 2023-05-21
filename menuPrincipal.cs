@@ -20,7 +20,7 @@ namespace LaTuerca
 
         private void LaTuercaPanel_Click(object sender, EventArgs e)
         {
-
+            Application.Exit();
         }
 
         private void loginAdmin_Click(object sender, EventArgs e)
@@ -40,6 +40,14 @@ namespace LaTuerca
         {
             Form formularioDom = new envioDomicilio();
             formularioDom.ShowDialog();
+        }
+
+        private void siguiente_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            pantallaSiguiente pantSiguiente = new pantallaSiguiente();
+            pantSiguiente.Show();
+            
         }
     }
 }

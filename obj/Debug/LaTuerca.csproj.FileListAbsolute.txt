@@ -22,3 +22,17 @@ C:\Users\thele\OneDrive\Escritorio\Lyrex\obj\Debug\LaTuerca.csproj.CoreCompileIn
 C:\Users\thele\OneDrive\Escritorio\Lyrex\obj\Debug\LaTuerca.exe
 C:\Users\thele\OneDrive\Escritorio\Lyrex\obj\Debug\LaTuerca.pdb
 C:\Users\thele\OneDrive\Escritorio\Lyrex\bin\Debug\LaTuerca.pdb
+C:\Users\paraj\Desktop\LyrexIndustries\bin\Debug\LaTuerca.exe.config
+C:\Users\paraj\Desktop\LyrexIndustries\bin\Debug\LaTuerca.exe
+C:\Users\paraj\Desktop\LyrexIndustries\bin\Debug\LaTuerca.pdb
+C:\Users\paraj\Desktop\LyrexIndustries\obj\Debug\LaTuerca.csproj.AssemblyReference.cache
+C:\Users\paraj\Desktop\LyrexIndustries\obj\Debug\LaTuerca.csproj.SuggestedBindingRedirects.cache
+C:\Users\paraj\Desktop\LyrexIndustries\obj\Debug\LaTuerca.Administracion.resources
+C:\Users\paraj\Desktop\LyrexIndustries\obj\Debug\LaTuerca.envioDomicilio.resources
+C:\Users\paraj\Desktop\LyrexIndustries\obj\Debug\LaTuerca.menuPrincipal.resources
+C:\Users\paraj\Desktop\LyrexIndustries\obj\Debug\LaTuerca.Properties.Resources.resources
+C:\Users\paraj\Desktop\LyrexIndustries\obj\Debug\LaTuerca.csproj.GenerateResource.cache
+C:\Users\paraj\Desktop\LyrexIndustries\obj\Debug\LaTuerca.csproj.CoreCompileInputs.cache
+C:\Users\paraj\Desktop\LyrexIndustries\obj\Debug\LaTuerca.exe
+C:\Users\paraj\Desktop\LyrexIndustries\obj\Debug\LaTuerca.pdb
+C:\Users\paraj\Desktop\LyrexIndustries\obj\Debug\LaTuerca.pantallaSiguiente.resources

@@ -66,6 +66,12 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Siguiente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Siguiente.Designer.cs">
+      <DependentUpon>Siguiente.cs</DependentUpon>
+    </Compile>
     <EmbeddedResource Include="Administracion.resx">
       <DependentUpon>Administracion.cs</DependentUpon>
     </EmbeddedResource>
@@ -84,6 +90,9 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="Siguiente.resx">
+      <DependentUpon>Siguiente.cs</DependentUpon>
+    </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
