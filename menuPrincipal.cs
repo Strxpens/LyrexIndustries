@@ -20,15 +20,15 @@ namespace LaTuerca
 
         private void LaTuercaPanel_Click(object sender, EventArgs e)
         {
-            Application.Exit();
+            
         }
 
         private void loginAdmin_Click(object sender, EventArgs e)
         {
-            this.Hide();
+            
             Form formularioAdmin = new Administracion();
             formularioAdmin.ShowDialog();
-            
+            this.Close();
         }
 
         private void Menu_Click(object sender, EventArgs e)

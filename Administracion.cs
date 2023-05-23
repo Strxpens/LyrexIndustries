@@ -30,9 +30,10 @@ namespace LaTuerca
 
         private void regresarMenu_Click(object sender, EventArgs e)
         {
-            this.Hide();
+            
             Form formularioPrincipal = new menuPrincipal();
             formularioPrincipal.ShowDialog();
+            this.Close();
 
         }
 

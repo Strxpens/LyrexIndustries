@@ -24,7 +24,7 @@ namespace LaTuerca
 
         private void cancelarDom_Click(object sender, EventArgs e)
         {
-            this.Hide();
+            this.Close();
         }
     }
 }
